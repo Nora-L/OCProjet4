@@ -27,6 +27,21 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+.desc {
+    font-size: 22px;
+    padding: 22px 0 8px 0;
+}
+
+.avis {
+    font-size: 20px;
+    padding: 0 60px 0px 60px;
+}
+
+.name {
+    font-size: 15px;
+    margin: -11px 0 0px 0px;
+}
+
 .bloc {
     width: 100%;
     clear: both;
