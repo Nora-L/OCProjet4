@@ -18,6 +18,10 @@ a:hover {
     cursor: pointer;
 }
 
+.acess:hover{
+    text-decoration: underline!important;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -720,7 +724,7 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 24px;
     line-height: 1.4em;
 }
 
