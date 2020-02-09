@@ -696,7 +696,7 @@ a {
 }
 
 p {
-    font-size: 15px;
+    font-size: 17px;
 }
 
 .tight-width-whitespace {
@@ -795,6 +795,12 @@ h4 {
 
 .tc-white {
     color: #FFFFFF!important;
+    z-index: 1;
+    position: relative;
+}
+
+.tc-black{
+    color: #292929!important;
     z-index: 1;
     position: relative;
 }
